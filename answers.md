@@ -72,6 +72,35 @@ Changes to be committed:
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
         answers.md
-# yes, I noticed the change in colour.
+yes, I noticed the change in colour.
 
-Answer6: 
+Answer6: On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   README.md
+        new file:   answers.md
+
+Answer7: [master (root-commit) 6d13602] Initial commit
+ 2 files changed, 79 insertions(+)
+ create mode 100644 README.md
+ create mode 100644 answers.md
+
+ Answer8: commit 6d13602f752fd9790fedb3d3ce196c1b843a9c34 (HEAD -> master)
+Author: kn478619 <kn478619@ohio.edu>
+Date:   Mon May 10 23:25:50 2021 -0400
+
+    Initial commit
+
+Answer9: 
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   answers.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
