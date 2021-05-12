@@ -104,3 +104,40 @@ Changes not staged for commit:
         modified:   answers.md
 
 no changes added to commit (use "git add" and/or "git commit -a")
+
+Answer10: No changes were not seen made in online.
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+Answer11:  ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/kn478619/git-lab.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+Answer12: Yes, changes made online were seen.
+remote: Enumerating objects: 5, done.
+remote: Counting objects: 100% (5/5), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), 703 bytes | 175.00 KiB/s, done.
+From https://github.com/kn478619/git-lab
+   b8855eb..f65b52b  main       -> origin/main
+Updating b8855eb..f65b52b
+Fast-forward
+ README.md | 7 ++++++-
+ 1 file changed, 6 insertions(+), 1 deletion(-)
+
+ Answer13:
+ .               ..              .git            .gitignore      README.md
+
+ 15: C++ Program
+
+
+
+
+
