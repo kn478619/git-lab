@@ -1,10 +1,13 @@
-Answer1  git version 2.31.1
+ # Answer1 
+ git version 2.31.1
 
-Answer2 : credential.helper=osxkeychain
+ # Answer2 : 
+ credential.helper=osxkeychain
 user.name=kn478619
 user.email=kn478619@ohio.edu
 
-Answer3 : usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
+# Answer3 :
+ usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
            [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
            [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
            [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
@@ -51,7 +54,8 @@ concept guides. See 'git help <command>' or 'git help <concept>'
 to read about a specific subcommand or concept.
 See 'git help git' for an overview of the system.
 
-Answer4: On branch master
+# Answer4: 
+ On branch master
 
 No commits yet
 
@@ -61,7 +65,8 @@ Untracked files:
         answers.md
 nothing added to commit but untracked files present (use "git add" to track)
 
-Answer5 : On branch master
+# Answer5 :
+ On branch master
 
 No commits yet
 
@@ -74,7 +79,8 @@ Untracked files:
         answers.md
 yes, I noticed the change in colour.
 
-Answer6: On branch master
+# Answer6:
+ On branch master
 
 No commits yet
 
@@ -83,7 +89,8 @@ Changes to be committed:
         new file:   README.md
         new file:   answers.md
 
-Answer7: [master (root-commit) 6d13602] Initial commit
+# Answer7:
+ [master (root-commit) 6d13602] Initial commit
  2 files changed, 79 insertions(+)
  create mode 100644 README.md
  create mode 100644 answers.md
@@ -94,7 +101,7 @@ Date:   Mon May 10 23:25:50 2021 -0400
 
     Initial commit
 
-Answer9: 
+# Answer9: 
 On branch main
 Your branch is up to date with 'origin/main'.
 
@@ -105,13 +112,15 @@ Changes not staged for commit:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 
-Answer10: No changes were not seen made in online.
+# Answer10: 
+No changes were not seen made in online.
 On branch main
 Your branch is up to date with 'origin/main'.
 
 nothing to commit, working tree clean
 
-Answer11:  ! [rejected]        main -> main (fetch first)
+# nswer11:  
+! [rejected]        main -> main (fetch first)
 error: failed to push some refs to 'https://github.com/kn478619/git-lab.git'
 hint: Updates were rejected because the remote contains work that you do
 hint: not have locally. This is usually caused by another repository pushing
@@ -119,7 +128,7 @@ hint: to the same ref. You may want to first integrate the remote changes
 hint: (e.g., 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
-Answer12: Yes, changes made online were seen.
+# Answer12: Yes, changes made online were seen.
 remote: Enumerating objects: 5, done.
 remote: Counting objects: 100% (5/5), done.
 remote: Compressing objects: 100% (3/3), done.
@@ -132,10 +141,10 @@ Fast-forward
  README.md | 7 ++++++-
  1 file changed, 6 insertions(+), 1 deletion(-)
 
- Answer13:
+ # Answer13:
  .               ..              .git            .gitignore      README.md
 
- 15: C++ Program
+
 
 
 
